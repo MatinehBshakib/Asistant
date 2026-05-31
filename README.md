@@ -1,4 +1,4 @@
-# 🧠 RulexGraphAssistant MCP Server
+# 🧠 GraphAssistant MCP Server
 
 **RulexGraphAssistant** is a Model Context Protocol (MCP) server that bridges the gap between unstructured text, Knowledge Graphs, and Generative AI.
 
